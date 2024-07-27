@@ -29,17 +29,17 @@ function App() {
 
   let imagedata = [
     {
-      img: "../src/assets/bg-showcase-1.jpg",
+      img: "/assets/bg-showcase-1.jpg",
       des1: "Fully Responsive Design",
       des2: "When you use a theme created by Start Bootstrap, you know that the theme will look great on any device, whether it's a phone, tablet, or desktop the page will behave responsively!",
     },
     {
-      img: "../src/assets/bg-showcase-2.jpg",
+      img: "/assets/bg-showcase-2.jpg",
       des1: "Updated For Bootstrap 5",
       des2: "Newly improved, and full of great utility classNamees, Bootstrap 5 is leading the way in mobile responsive web development! All of the themes on Start Bootstrap are now using Bootstrap 5!",
     },
     {
-      img: "../src/assets/bg-showcase-3.jpg",
+      img: "/assets/bg-showcase-3.jpg",
       des1: "Easy to Use & Customize",
       des2: "Landing Page is just HTML and CSS with a splash of SCSS for users who demand some deeper customization options. Out of the box, just add your content and images, and your new landing page will be ready to go!",
     },
@@ -47,18 +47,18 @@ function App() {
 
   let testimonialdata = [
     {
-      img: "../src/assets/testimonials-1.jpg",
+      img: "/assets/testimonials-1.jpg",
       name: "Margaret E.",
       review: "This is fantastic! Thanks so much guys!",
     },
     {
-      img: "../src/assets/testimonials-2.jpg",
+      img: "/assets/testimonials-2.jpg",
       name: "Fred S.",
       review:
         "Bootstrap is amazing. I've been using it to create lots of super nice landing pages.",
     },
     {
-      img: "../src/assets/testimonials-3.jpg",
+      img: "/assets/testimonials-3.jpg",
       name: "Sarah W.",
       review: "Thanks so much for making these free resources available to us!",
     },
